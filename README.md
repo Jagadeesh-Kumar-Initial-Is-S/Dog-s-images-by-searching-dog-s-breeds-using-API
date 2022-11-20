@@ -2,4 +2,4 @@
 
 Dog's images by searching dog's breeds using API
 
-beautiful-mermaid-08451a.netlify.app/
+https://beautiful-mermaid-08451a.netlify.app/
